@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Design</string>
+    <string name="forget_password_text">Forgotten your password? <font fgcolor='#2CD842'>Click here</font></string>
+    <string name="already_have_an_account_text">Already have an account? <font fgcolor='#2CD842'>Login</font></string>
+</resources>
